@@ -1,0 +1,5 @@
+.vscode
+*.pptx
+*.docx
+.DS_Store
+screenshots
